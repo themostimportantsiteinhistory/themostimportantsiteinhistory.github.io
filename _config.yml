@@ -13,28 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Most Important Document in History
+title: The Most Important Site in History
 description: >- # this means to ignore newlines until "baseurl:"
   Great food recs from some pros.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  themostimportantdocumentinhistory
 restaurant_images: ['https://source.unsplash.com/600x300/?african%20american',
-  'https://source.unsplash.com/600x300/?restaurant',
+  'https://source.unsplash.com/600x300/?eating',
   'https://source.unsplash.com/600x300/?brunch',
   'https://source.unsplash.com/600x300/?ramen',
   'https://source.unsplash.com/600x300/?bagels',
-  'https://source.unsplash.com/600x300/?cuisine',
+  'https://source.unsplash.com/600x300/?bakery',
   'https://source.unsplash.com/600x300/?food',
-  'https://source.unsplash.com/600x300/?city,food',
-  'https://source.unsplash.com/600x300/?coffee,cafe',
-  'https://source.unsplash.com/600x300/?friends',
-  'https://source.unsplash.com/600x300/?dinner,meal',
+  'https://source.unsplash.com/600x300/?sushi',
+  'https://source.unsplash.com/600x300/?coffee',
+  'https://source.unsplash.com/600x300/?pastry',
+  'https://source.unsplash.com/600x300/?eating',
   'https://source.unsplash.com/600x300/?salad',
   'https://source.unsplash.com/600x300/?fruit',
   'https://source.unsplash.com/600x300/?noodles',
   'https://source.unsplash.com/600x300/?plate',
-  'https://source.unsplash.com/600x300/?asian,food',
+  'https://source.unsplash.com/600x300/?dessert',
   ]
 # Build settings
 markdown: kramdown
