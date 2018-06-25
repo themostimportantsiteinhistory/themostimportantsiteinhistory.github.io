@@ -1,0 +1,13 @@
+data:
+- address: 826 Folsom St San Francisco
+  name: Zero Zero
+  notes: Pricey (~$20/pizza) but really good! Recommend getting the avocado toast
+    and splitting a pizza with someone.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/zero-zero-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2406 California St San Francisco
+  name: 'Pizzeria Delfina '
+  notes: Super amazing authentic Italian pizza in the Mission! Try the burrata and
+    any of their pizzas - you can't go wrong.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/pizzeria-delfina-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

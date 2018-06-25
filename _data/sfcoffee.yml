@@ -1,0 +1,13 @@
+data:
+- address: 315 Linden St San Francisco
+  name: Blue Bottle Coffee
+  notes: The place for real connoisseurs (which I am def not since I don't drink coffee.)
+    Jack Dorsey swears by this place. Also, the affogato is really, really good.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/blue-bottle-coffee-san-francisco-8?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 270 Seventh St San Francisco
+  name: 'Sightglass Coffee '
+  notes: Super bougie coffee shop (think wood panels and warehouse setting) but the
+    coffee (and affogato) is alright (and overpriced)!
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/sightglass-coffee-san-francisco-7?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

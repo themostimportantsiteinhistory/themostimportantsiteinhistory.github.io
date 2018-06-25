@@ -1,0 +1,35 @@
+data:
+- address: 1640 Haight St San Francisco
+  name: Sparrow
+  notes: This was my favorite brunch spot!! It's on Haight st, and I went here almost
+    every weekend. Try their open faced egg sandwich or their french toast!
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/sparrow-bar-and-kitchen-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 360 Ritch St San Francisco
+  name: 'Little Skillet '
+  notes: They're famous for their chicken + waffles! Also, they have an in-house dj
+    that plays some really solid blues.
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/little-skillet-san-francisco-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 736 Divisadero St San Francisco
+  name: 'The Mill '
+  notes: Fancy overpriced toast? Yeah, go here at least once. It's some of the best
+    toast you'll ever have.
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/the-mill-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 746 Valencia St San Francisco
+  name: 'Craftsman and Wolves '
+  notes: This place in the Mission is opened by a chef that won so many awards. Try
+    The Rebel Within (an egg encased by a muffin)!
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/craftsman-and-wolves-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 600 Guerrero St San Francisco
+  name: 'Tartine Bakery '
+  notes: In the Mission, this is one of the best bakeries in the city.
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/tartine-bakery-and-cafe-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 701 Haight St San Francisco
+  name: Black Sands Brewery
+  notes: 'Another solid brunch spot in the Haight. '
+  type: Brunch
+  yelp_link: https://www.yelp.com/biz/black-sands-san-francisco-5?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

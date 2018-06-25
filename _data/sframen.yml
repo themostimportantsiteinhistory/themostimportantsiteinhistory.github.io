@@ -1,0 +1,18 @@
+data:
+- address: 672 Geary St San Francisco
+  name: 'Mensho Tokyo '
+  notes: Literally the best ramen you'll ever have! It only opens for dinner and takes
+    no reservations so get there right when it opens. You'll still probably have to
+    wait 20min-2h, but it's 110% worth. I went at least 3x in my 3 months in SF.
+  type: Ramen
+  yelp_link: https://www.yelp.com/biz/mensho-tokyo-san-francisco-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 231 Franklin St San Francisco
+  name: 'Nojo Ramen '
+  notes: Also one of the best ramen spots in the city! Mensho > Nojo imho though
+  type: Ramen
+  yelp_link: https://www.yelp.com/biz/nojo-ramen-tavern-san-francisco-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 237 Fillmore St San Francisco
+  name: 'Iza Ramen Lower Haight '
+  notes: Also a really great ramen spot, but can't compare to Nojo or Mensho.
+  type: Ramen
+  yelp_link: https://www.yelp.com/biz/iza-ramen-lower-haight-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

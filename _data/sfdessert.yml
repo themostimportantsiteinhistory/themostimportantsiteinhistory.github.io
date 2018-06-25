@@ -1,0 +1,35 @@
+data:
+- address: 815 Cole St San Francisco
+  name: 'Ice Cream Bar (Cole Valley) '
+  notes: They have delicious floats and handmade ice cream! The coconut almond vegan
+    ice cream is literally better than most non-vegan ice creams.
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/the-ice-cream-bar-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 432 Octavia St San Francisco
+  name: Smitten Ice Cream
+  notes: Some of the best ice cream in SF! Using nitrogen to freeze it, the ice cream
+    is really creamy. They do cool flavor combos such as red pepper ice cream with
+    honey
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/smitten-ice-cream-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 254 Fillmore St San Francisco
+  name: 'Three Twins Ice Cream '
+  notes: Solid if you're in the area, but not my fave
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/three-twins-ice-cream-san-francisco-5?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2356 Polk St San Francisco
+  name: Loving Cup
+  notes: Froyo!
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/loving-cup-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 341 Kearny St San Francisco
+  name: Plentea
+  notes: They serve boba in glass bottles that you get to keep! The nutella one is
+    my fave.
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/plentea-san-francisco-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 429 Stockton St San Francisco
+  name: The Boba Guys
+  notes: It's p solid at boba
+  type: Dessert
+  yelp_link: https://www.yelp.com/biz/boba-guys-san-francisco-6?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

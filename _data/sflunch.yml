@@ -1,0 +1,23 @@
+data:
+- address: 730 Larkin St San Francisco
+  name: 'Lers Ros Thai '
+  notes: Quality Thai food! Reserve in advance, esp. on weekends
+  type: Lunch
+  yelp_link: https://www.yelp.com/biz/lers-ros-san-francisco-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 490 Pacific Ave San Francisco
+  name: Cotogna
+  notes: A super delicious Italian restaurant in North Beach
+  type: Lunch
+  yelp_link: https://www.yelp.com/biz/cotogna-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 203 Octavia Blvd San Francisco
+  name: Straw
+  notes: You have to try their famous donut burger (or chicken + waffles) at least
+    once! This place is extremely extra but you have to go. It's carnival themed and
+    the guest book they give you to sign is super fun!
+  type: Lunch
+  yelp_link: https://www.yelp.com/biz/straw-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2288 Mission St San Francisco
+  name: Taqueria Cancun
+  notes: A super famous burrito place in the Mission
+  type: Lunch
+  yelp_link: https://www.yelp.com/biz/taqueria-canc%C3%BAn-san-francisco-5?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

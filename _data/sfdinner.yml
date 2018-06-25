@@ -1,0 +1,50 @@
+data:
+- address: 1224 9th Ave San Francisco
+  name: 'Nopalito '
+  notes: High class Mexican food in the Panhandle
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/nopalito-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1515 Polk St San Francisco
+  name: 'Nara '
+  notes: I love this sushi place/bar! Try the hamachi truffle with their sakes!
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/nara-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 836 Irving St San Francisco
+  name: 'Perilla '
+  notes: Solid Vietnamese food. Try the chicken ramen or garlic noodles. Also, this
+    was n8 and Joe's favorite place last summer and you know how n8 feels about pho.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/perilla-san-francisco-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 652 Polk St San Francisco
+  name: 'Brenda''s Soul French food '
+  notes: New orleans style food! Quality comfort food.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/brendas-french-soul-food-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 759 Columbus Ave San Francisco
+  name: Burgermeister
+  notes: Great burger place in Cole Valley! The avocado burger is top.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/burgermeister-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 312 8th Ave San Francisco
+  name: 'Halu '
+  notes: ' Japanese street food! Seriously solid skewers.'
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/halu-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1658 Market St San Francisco
+  name: "Zuni Caf\xE9"
+  notes: Expensive, date night sort of place that I happily tried by myself. Pretty
+    good.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/zuni-caf%C3%A9-san-francisco-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 3319 Balboa St San Francisco
+  name: Shanghai Dumpling King
+  notes: I haven't personally been here, but it was recommended to me by someone who
+    is great at food.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/shanghai-dumpling-king-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 517 Hayes St San Francisco
+  name: 'Souvla '
+  notes: Really, really good Greek food. I like their chicken salad and fries with
+    garlic Greek yogurt sauce.
+  type: Dinner
+  yelp_link: https://www.yelp.com/biz/souvla-san-francisco?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
