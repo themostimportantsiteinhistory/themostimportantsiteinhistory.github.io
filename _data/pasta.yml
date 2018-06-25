@@ -1,0 +1,21 @@
+data:
+- address: 149 Sullivan St New York
+  name: Pepe Rosso To-Go
+  notes: A great option for pasta.
+  type: Pasta
+  yelp_link: https://www.yelp.com/biz/pepe-rosso-to-go-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 117 Second Ave New York
+  name: Scarpetta (spaghetti)
+  notes: A great option for pasta.
+  type: Pasta
+  yelp_link: https://www.yelp.com/biz/san-marzano-pasta-fresca-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 268 Ave Of The Americas New York
+  name: Bar Pitti
+  notes: A great option for pasta.
+  type: Pasta
+  yelp_link: https://www.yelp.com/biz/bar-pitti-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 218 Lafayette St New York
+  name: Osteria Morini
+  notes: A great option for pasta.
+  type: Pasta
+  yelp_link: https://www.yelp.com/biz/osteria-morini-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

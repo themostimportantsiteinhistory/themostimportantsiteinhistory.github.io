@@ -1,0 +1,46 @@
+data:
+- address: 49 Bayard St New York
+  name: "Vivi\u2019s Bubble Tea"
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/vivi-bubble-tea-new-york-6?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 42-21 Bell Blvd Bayside
+  name: Kung Fu Bubble Tea
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/kung-fu-tea-bayside?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 858 Lexington Ave New York
+  name: ChaTime
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/chatime-new-york-5?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 51 Chrystie St New York
+  name: Ya Ya Tea Garden
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/yaya-tea-garden-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 145D Hester St New York
+  name: Teado Tea Shop
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/teado-tea-shop-new-york-6?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 230 E 9th St New York
+  name: "Tea Ren\u2019s Tea Time"
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/cha-an-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 55B Bayard St New York
+  name: Bubbly Tea
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/bubbly-tea-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 45 Mott St New York
+  name: Cha Chan Tang
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/cha-chan-tang-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 135 Mott St New York
+  name: Pa Tea
+  notes: A great option for boba.
+  type: Boba
+  yelp_link: https://www.yelp.com/biz/patea-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

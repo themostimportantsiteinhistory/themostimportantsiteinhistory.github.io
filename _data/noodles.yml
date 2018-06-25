@@ -1,0 +1,86 @@
+data:
+- address: 3600 Broadway New York
+  name: The Handpulled Noodle
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/the-handpulled-noodle-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1 Doyers St New York
+  name: Tasty Hand-Pulled Noodles
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/tasty-hand-pulled-noodles-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 40 Bowery St New York
+  name: Lam Zhou Handmade Noodle
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/88-lan-zhou-handmade-noodles-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1 Doyers St New York
+  name: Big Wong (roast duck noodle soup)
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/tasty-hand-pulled-noodles-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 277 Grand St New York
+  name: Pho Grand
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/pho-grand-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 8290 Broadway Elmhurst
+  name: Pho Bang
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/pho-bang-elmhurst?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 80 Bayard St New York
+  name: New Bo Ky Restaurant
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/bo-ky-restaurant-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 28 Bowery New York
+  name: Great N.Y. Noodletown
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/great-ny-noodle-town-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 65 4th Ave New York
+  name: 'Ippudo '
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/ippudo-new-york-10?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 366 W 52nd St New York
+  name: Totto
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/totto-ramen-new-york-12?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 12-09 Jackson Ave Long Island City
+  name: Mu Ramen
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/mu-ramen-long-island-city-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 25 Clinton St New York
+  name: Ivan Ramen
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/ivan-ramen-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 171 1st Ave New York
+  name: Momofuku Noodle Bar
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/momofuku-noodle-bar-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 70 Kenmare St New York
+  name: Ramen Lab
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/ramen-lab-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 13 Mott St New York
+  name: Noodle Village
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/noodle-village-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 81 St Marks Pl New York
+  name: Spicy Village (da pan ji)
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/xian-famous-foods-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 328 E 6th St New York
+  name: Zen 6
+  notes: A great option for noodles.
+  type: Noodles
+  yelp_link: https://www.yelp.com/biz/zen-6-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

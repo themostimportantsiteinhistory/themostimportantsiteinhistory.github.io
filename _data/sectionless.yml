@@ -1,0 +1,86 @@
+data:
+- address: 166 S 4th St Brooklyn
+  name: "Pies \u2018n\u2019 Thighs"
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/pies-n-thighs-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 197 1st Ave New York
+  name: "S\u2019mac"
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/smac-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2655 Richmond Ave Staten Island
+  name: Potatopia
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/potatopia-staten-island-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 293 7th Ave New York
+  name: Kobeyaki
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/kobeyaki-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 4 Stuyvesant St New York
+  name: East Japanese Market
+  notes: Sushi on a conveyor belt!! :o
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/sunrise-mart-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 536 E 5th St New York
+  name: Minca
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/minca-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 245 W 51st St New York
+  name: Nippori
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/nippori-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1119 Newkirk Ave Brooklyn
+  name: Milk and Honey
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/milk-and-honey-cafe-brooklyn-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 157 W 47th St New York
+  name: 'Hong Kong Station '
+  notes: Create your own noodles!
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/hong-kong-station-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 200 5th Ave New York
+  name: Eataly
+  notes: Italian everything!
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/eataly-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 164 Mott St New York
+  name: 'Two Hands '
+  notes: Acai bowl is amazing
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/two-hands-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 141 Havemeyer St Brooklyn
+  name: Little Choc Apothecary
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/little-choc-apothecary-brooklyn-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 3841 Bailey Ave Bronx
+  name: 'Cotton Candy Machine '
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/cotton-candy-clowns-bronx?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2901 Emmons Ave Brooklyn
+  name: Roll-N-Roaster
+  notes: Amazing roast beef in sheepshead bay
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/roll-n-roaster-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 65 Bayard St New York
+  name: 'Play J ice cream truck '
+  notes: Usually around St. Marks
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/chinatown-ice-cream-factory-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 214 E 10th St New York
+  name: Hirokos Place
+  notes: A great option for sectionless.
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/hi-collar-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 54 Prince St New York
+  name: 'Mac Bar '
+  notes: "Not as good as S\u2019mac but still good."
+  type: Sectionless
+  yelp_link: https://www.yelp.com/biz/macbar-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

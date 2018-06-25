@@ -1,0 +1,41 @@
+data:
+- address: 32 E 7th St New York
+  name: East Village Thai
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/east-village-thai-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 36 E 8th St New York
+  name: Kiin Thai
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/kiin-thai-eatery-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 85 Ave A New York
+  name: Somtum Der
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/somtum-der-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 85 Ave A New York
+  name: Kin Shop
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/somtum-der-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 960 Amsterdam Ave New York
+  name: Thai Market
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/thai-market-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 117 W 10th St New York
+  name: Pinto Thai
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/pinto-garden-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 7 St Marks Pl New York
+  name: Klong Thai
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/klong-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 311 2nd Ave New York
+  name: The Lantern
+  notes: A great option for thai.
+  type: Thai
+  yelp_link: https://www.yelp.com/biz/lantern-thai-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

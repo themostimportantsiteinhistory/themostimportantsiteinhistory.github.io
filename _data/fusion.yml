@@ -1,0 +1,21 @@
+data:
+- address: 2170 Broadway New York
+  name: Red Farm
+  notes: A great option for fusion.
+  type: Fusion
+  yelp_link: https://www.yelp.com/biz/redfarm-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 28 Watts St New York
+  name: Mooncake Foods
+  notes: A great option for fusion.
+  type: Fusion
+  yelp_link: https://www.yelp.com/biz/mooncake-foods-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 171 E Broadway New York
+  name: Mission Chinese (!!!!!)
+  notes: A great option for fusion.
+  type: Fusion
+  yelp_link: https://www.yelp.com/biz/mission-chinese-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 369 7th Ave Brooklyn
+  name: Perilla
+  notes: A great option for fusion.
+  type: Fusion
+  yelp_link: https://www.yelp.com/biz/talde-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

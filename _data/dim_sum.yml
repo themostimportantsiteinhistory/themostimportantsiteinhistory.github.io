@@ -1,0 +1,16 @@
+data:
+- address: 380 Amsterdam Ave New York
+  name: Jing Fong
+  notes: A great option for dim sum.
+  type: Dim Sum
+  yelp_link: https://www.yelp.com/biz/jing-fong-new-york-6?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 18 E Broadway New York
+  name: Golden Unicorn
+  notes: A great option for dim sum.
+  type: Dim Sum
+  yelp_link: https://www.yelp.com/biz/golden-unicorn-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 13 Doyers St New York
+  name: Nom Wah Tea Parlor
+  notes: A great option for dim sum.
+  type: Dim Sum
+  yelp_link: https://www.yelp.com/biz/nom-wah-tea-parlor-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

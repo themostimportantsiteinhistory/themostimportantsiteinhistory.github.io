@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: The Most Important Document in History
+description: >- # this means to ignore newlines until "baseurl:"
+  Great food recs from some pros.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  themostimportantdocumentinhistory
+restaurant_images: ['https://source.unsplash.com/600x300/?african%20american',
+  'https://source.unsplash.com/600x300/?restaurant',
+  'https://source.unsplash.com/600x300/?brunch',
+  'https://source.unsplash.com/600x300/?ramen',
+  'https://source.unsplash.com/600x300/?bagels',
+  'https://source.unsplash.com/600x300/?cuisine',
+  'https://source.unsplash.com/600x300/?food',
+  'https://source.unsplash.com/600x300/?city,food',
+  'https://source.unsplash.com/600x300/?coffee,cafe',
+  'https://source.unsplash.com/600x300/?friends',
+  'https://source.unsplash.com/600x300/?dinner,meal',
+  'https://source.unsplash.com/600x300/?salad',
+  'https://source.unsplash.com/600x300/?fruit',
+  'https://source.unsplash.com/600x300/?noodles',
+  'https://source.unsplash.com/600x300/?plate',
+  'https://source.unsplash.com/600x300/?asian,food',
+  ]
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

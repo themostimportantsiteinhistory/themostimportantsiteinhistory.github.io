@@ -1,0 +1,26 @@
+data:
+- address: 185 7th Ave New York
+  name: Momoya
+  notes: A great option for sushi.
+  type: Sushi
+  yelp_link: https://www.yelp.com/biz/momoya-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 211 E 43rd St New York
+  name: Sakagura
+  notes: A great option for sushi.
+  type: Sushi
+  yelp_link: https://www.yelp.com/biz/sakagura-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 402 E 78th St New York
+  name: Sushi of Gari
+  notes: A great option for sushi.
+  type: Sushi
+  yelp_link: https://www.yelp.com/biz/sushi-of-gari-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 40 W 40th St New York
+  name: Koi
+  notes: A great option for sushi.
+  type: Sushi
+  yelp_link: https://www.yelp.com/biz/koi-restaurant-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1221 Quentin Rd Brooklyn
+  name: Masakari (Sheepshead Bay)
+  notes: A great option for sushi.
+  type: Sushi
+  yelp_link: https://www.yelp.com/biz/mitoushi-japanese-restaurant-brooklyn-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

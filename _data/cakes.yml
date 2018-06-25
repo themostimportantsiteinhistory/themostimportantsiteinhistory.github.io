@@ -1,0 +1,36 @@
+data:
+- address: 41 E 78th St New York
+  name: Lady M Confections
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/lady-m-cake-boutique-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 228 Bleecker St New York
+  name: "Molly\u2019s Cupcakes"
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/mollys-cupcakes-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 30 Prince St New York
+  name: Little Cupcake Bakeshop
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/little-cupcake-bakeshop-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 17 Cleveland Pl New York
+  name: "Eileen\u2019s Special Cheesecake"
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/eileens-special-cheesecake-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1652 2nd Ave New York
+  name: Two Little Red Hens
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/two-little-red-hens-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 439 3rd Ave Brooklyn
+  name: Four & Twenty Blackbirds
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/four-and-twenty-blackbirds-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 61 Delancey St New York
+  name: "Petee\u2019s Pie Co."
+  notes: A great option for cakes .
+  type: 'Cakes '
+  yelp_link: https://www.yelp.com/biz/petees-pie-company-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

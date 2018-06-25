@@ -1,0 +1,86 @@
+data:
+- address: 251 E 13th St New York
+  name: Momofuku Milk Bar
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/milk-bar-east-village-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2 Rivington St New York
+  name: "Morgenstern\u2019s Finest Ice Cream"
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/morgensterns-finest-ice-cream-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 600 11th Ave New York
+  name: 'Gotham West Market '
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/gotham-west-market-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 137 7th Ave S New York
+  name: Dominique Ansel Kitchen
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/dominique-ansel-kitchen-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 132 Orchard St New York
+  name: Melt Bakery
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/melt-bakery-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 65 Bayard St New York
+  name: Chinatown Ice Cream Factory
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/chinatown-ice-cream-factory-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 25 E 17th St New York
+  name: "Chloe\u2019s Soft Serve"
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/chloes-soft-serve-fruit-co-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 600 11th Ave New York
+  name: Ample Hills Creamery
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/ample-hills-creamery-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 75 E 4th St New York
+  name: Oddfellows Ice Cream
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/oddfellows-ice-cream-co-new-york-8?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 95 E 10th St New York
+  name: Sundaes & Cones
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/sundaes-and-cones-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 241 E 10th St New York
+  name: Snowdays Shavery
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/snowdays-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 305 Van Brunt St Brooklyn
+  name: Dolce Gelateria
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/dolce-brooklyn-brooklyn-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 19 Commerce St New York
+  name: Milk & Cookies Bakery
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/milk-and-cookies-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 75 9th Ave New York
+  name: "L\u2019Arte del Gelato"
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/l-arte-del-gelato-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1796 Broadway New York
+  name: Grom
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/grom-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 353 W 14th St New York
+  name: Gansevoort Market
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/gansevoort-market-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 5 Carmine St New York
+  name: popbar
+  notes: A great option for frozen treats.
+  type: Frozen Treats
+  yelp_link: https://www.yelp.com/biz/popbar-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

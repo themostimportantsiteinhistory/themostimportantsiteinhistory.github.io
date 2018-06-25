@@ -1,0 +1,31 @@
+data:
+- address: 44 Hester St New York
+  name: Macaron Parlour
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/macaron-parlour-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 305 E 53rd St New York
+  name: Eclair Bakery
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/eclair-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1 Rockefeller Plaza New York
+  name: Bouchon Bakery
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/bouchon-bakery-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 398 W Broadway New York
+  name: Laduree Soho
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/ladur%C3%A9e-soho-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1900 Broadway New York
+  name: Epicurie Boulud
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/bar-boulud-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2175 Broadway New York
+  name: Mille Feuille
+  notes: A great option for french pastries.
+  type: French Pastries
+  yelp_link: https://www.yelp.com/biz/mille-feuille-bakery-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

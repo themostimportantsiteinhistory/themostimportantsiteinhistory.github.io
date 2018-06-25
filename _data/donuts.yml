@@ -1,0 +1,16 @@
+data:
+- address: 379 Grand St New York
+  name: Doughnut Plant
+  notes: A great option for donuts.
+  type: Donuts
+  yelp_link: https://www.yelp.com/biz/doughnut-plant-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 14 W 19th St New York
+  name: Dough
+  notes: A great option for donuts.
+  type: Donuts
+  yelp_link: https://www.yelp.com/biz/dough-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 102 Saint Marks Pl New York
+  name: Dun Well Doughnuts
+  notes: A great option for donuts.
+  type: Donuts
+  yelp_link: https://www.yelp.com/biz/dun-well-doughnuts-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

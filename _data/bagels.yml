@@ -1,0 +1,66 @@
+data:
+- address: 831 3rd Ave New York
+  name: Ess-A-Bagel
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/ess-a-bagel-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 500 Ave Of The Americas New York
+  name: "Murray\u2019s Bagels"
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/murrays-bagels-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 225 W 35th St New York
+  name: Best Bagel & Coffee
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/best-bagel-and-coffee-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 200 5th Ave New York
+  name: Space Market NYU
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/eataly-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 165 Avenue A New York
+  name: Tompkins Square Bagels
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/tompkins-square-bagels-avenue-a-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 286 8th Ave New York
+  name: Brooklyn Bagel & Coffee
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/brooklyn-bagel-and-coffee-company-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2788 Broadway New York
+  name: Absolute Bagels
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/absolute-bagels-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 181 Grand St New York
+  name: Baz Bagel
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/baz-bagel-and-restaurant-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1551 2nd Ave New York
+  name: H&H Bagel
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/h-and-h-midtown-bagels-east-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 179 E Houston St New York
+  name: Russ & Daughters
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/russ-and-daughters-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 357 1st Ave New York
+  name: Tal Bagels
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/tal-bagels-new-york-7?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 463 W Broadway New York
+  name: "Sadelle\u2019s"
+  notes: A great option for bagels.
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/sadelles-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 367 Grand St New York
+  name: Kossar's
+  notes: Get a bialy!
+  type: Bagels
+  yelp_link: https://www.yelp.com/biz/kossars-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

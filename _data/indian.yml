@@ -1,0 +1,21 @@
+data:
+- address: 50 Washington Sq S New York
+  name: NYC Dosa
+  notes: A great option for indian.
+  type: Indian
+  yelp_link: https://www.yelp.com/biz/ny-dosas-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 945 Columbus Ave New York
+  name: Doaba Deli
+  notes: A great option for indian.
+  type: Indian
+  yelp_link: https://www.yelp.com/biz/doaba-deli-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 940 8th Ave New York
+  name: Indikitch
+  notes: A great option for indian.
+  type: Indian
+  yelp_link: https://www.yelp.com/biz/indikitch-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 93 1st Ave New York
+  name: Milon Bangladesh
+  notes: A great option for indian.
+  type: Indian
+  yelp_link: https://www.yelp.com/biz/milon-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

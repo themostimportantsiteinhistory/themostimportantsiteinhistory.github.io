@@ -1,0 +1,11 @@
+data:
+- address: 80 Spring St New York
+  name: Balthazar Bakery
+  notes: A great option for bread.
+  type: Bread
+  yelp_link: https://www.yelp.com/biz/balthazar-boulangerie-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 198 Mott St New York
+  name: Parisi Bakery
+  notes: A great option for bread.
+  type: Bread
+  yelp_link: https://www.yelp.com/biz/parisi-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

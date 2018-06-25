@@ -1,0 +1,26 @@
+data:
+- address: 128 Macdougal St New York
+  name: Pommes Frites
+  notes: A great option for sweet treats.
+  type: Sweet Treats
+  yelp_link: https://www.yelp.com/biz/pommes-frites-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 279 Church St New York
+  name: Baked Tribeca
+  notes: A great option for sweet treats.
+  type: Sweet Treats
+  yelp_link: https://www.yelp.com/biz/baked-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 203 E 10th St New York
+  name: Chickalicious
+  notes: A great option for sweet treats.
+  type: Sweet Treats
+  yelp_link: https://www.yelp.com/biz/chikalicious-dessert-bar-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 13 St Marks Pl New York
+  name: Spot Dessert Bar
+  notes: A great option for sweet treats.
+  type: Sweet Treats
+  yelp_link: https://www.yelp.com/biz/spot-dessert-bar-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 152 Prince St New York
+  name: Chobani Soho
+  notes: A great option for sweet treats.
+  type: Sweet Treats
+  yelp_link: https://www.yelp.com/biz/chobani-soho-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

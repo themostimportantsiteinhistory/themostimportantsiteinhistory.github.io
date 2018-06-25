@@ -1,0 +1,26 @@
+data:
+- address: 270 Lafayette St New York
+  name: La Colombe Torrefaction
+  notes: A great option for coffee.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/la-colombe-coffee-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 30 W 8th St New York
+  name: Stumptown Coffee Roasters
+  notes: A great option for coffee.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/stumptown-coffee-roasters-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1216 Broadway New York
+  name: Chalait
+  notes: A great option for coffee.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/chalait-new-york-8?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 253 W 51st St New York
+  name: Bibble & Sip
+  notes: A great option for coffee.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/bibble-and-sip-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 6903 3rd Ave Brooklyn
+  name: 'Coffee RX '
+  notes: A great option for coffee.
+  type: Coffee
+  yelp_link: https://www.yelp.com/biz/coffee-rx-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

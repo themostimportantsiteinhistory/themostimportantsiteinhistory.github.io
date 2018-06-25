@@ -1,0 +1,36 @@
+data:
+- address: 2369 86th St Brooklyn
+  name: Prosperity Dumpling
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/top-prosperity-dumpling-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 42 Mulberry St New York
+  name: Tasty Dumpling
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/tasty-dumpling-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 25B Henry St New York
+  name: Jin Mei Dumplings
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/jin-mei-dumpling-house-%E6%B4%A5%E7%BE%8E%E9%94%85%E8%B4%B4-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 106 Mosco St New York
+  name: Fried Dumpling
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/fried-dumpling-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 220 E 14th St New York
+  name: "Vanessa\u2019s"
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/vanessas-dumpling-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 9 Pell St New York
+  name: "Joe\u2019s Shanghai (!!!!!!!)"
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/joes-shanghai-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 100 Mott St New York
+  name: Shanghai Cafe Deluxe
+  notes: A great option for dumplings.
+  type: Dumplings
+  yelp_link: https://www.yelp.com/biz/shanghai-cafe-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

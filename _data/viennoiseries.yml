@@ -1,0 +1,26 @@
+data:
+- address: 220 Church St New York
+  name: Arcade Bakery
+  notes: A great option for viennoiseries.
+  type: Viennoiseries
+  yelp_link: https://www.yelp.com/biz/arcade-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 85 Water St Brooklyn
+  name: Almondine Bakery
+  notes: A great option for viennoiseries.
+  type: Viennoiseries
+  yelp_link: https://www.yelp.com/biz/almondine-bakery-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 1 W 59th St New York
+  name: Francois Payard Patisserie
+  notes: A great option for viennoiseries.
+  type: Viennoiseries
+  yelp_link: https://www.yelp.com/biz/fp-patisserie-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 14 Delancey St New York
+  name: Ceci Cela
+  notes: A great option for viennoiseries.
+  type: Viennoiseries
+  yelp_link: https://www.yelp.com/biz/ceci-cela-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 189 Spring St New York
+  name: Dominique Ansel Bakery
+  notes: A great option for viennoiseries.
+  type: Viennoiseries
+  yelp_link: https://www.yelp.com/biz/dominique-ansel-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

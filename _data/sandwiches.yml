@@ -1,0 +1,76 @@
+data:
+- address: 35 Orchard St New York
+  name: Cheeky Sandwiches
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/cheeky-sandwiches-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 28 E 12th St New York
+  name: Num Pang Sandwich Shop
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/num-pang-kitchen-new-york-6?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 96 Saint Marks Pl New York
+  name: Xe May Sandwich Shop
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/xe-may-sandwich-shop-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 198 Grand St New York
+  name: Banh Mi Saigon
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/banh-mi-saigon-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 369 Broome St New York
+  name: Saigon Vietnamese Sandwich Deli
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/saigon-vietnamese-sandwich-deli-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 139 Essex St New York
+  name: Patacon Pisao
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/patacon-pisao-new-york-7?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 198 Mott St New York
+  name: Parisi Bakery
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/parisi-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 99 Nassau St New York
+  name: Pisillo Italian Bakery
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/pisillo-italian-cafe-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 17 E 13th St New York
+  name: Croque Monsieur
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/la-maison-du-croque-monsieur-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: Under Columbus Circle Subway New York
+  name: Meltkraft
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/meltkraft-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 135 W 50th St New York
+  name: Melt Shop
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/melt-shop-new-york-3?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 251 E Houston St New York
+  name: Gaia Italian Cafe
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/gaia-italian-caf%C3%A9-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 260 Bleecker St New York
+  name: "Fiacco\u2019s Italian Specialties"
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/faiccos-italian-specialties-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 94 Ave B New York
+  name: "Sunny & Annie\u2019s"
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/sunny-and-annies-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 222 Waverly Pl New York
+  name: Taim
+  notes: A great option for sandwiches.
+  type: Sandwiches
+  yelp_link: https://www.yelp.com/biz/taim-west-village-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

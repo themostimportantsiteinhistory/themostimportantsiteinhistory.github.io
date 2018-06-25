@@ -1,0 +1,36 @@
+data:
+- address: 349 E 12th St New York
+  name: Motorino
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/motorino-new-york-4?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 235 Mulberry St New York
+  name: Rubirosa
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/rubirosa-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 9 Pell St New York
+  name: "Joe\u2019s"
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/joes-shanghai-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 271 Bleecker St New York
+  name: Keste Pizza e Vino
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/kest%C3%A9-pizza-and-vino-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 919 Fulton St Brooklyn
+  name: Emily
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/emily-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 27 Prince St New York
+  name: Prince St. Pizza
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/prince-street-pizza-new-york-2?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 2725 86th St Brooklyn
+  name: Spumoni Gardens
+  notes: A great option for pizza.
+  type: Pizza
+  yelp_link: https://www.yelp.com/biz/l-and-b-spumoni-gardens-brooklyn?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

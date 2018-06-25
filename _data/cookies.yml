@@ -1,0 +1,16 @@
+data:
+- address: 167 W 74th St New York
+  name: Levain Bakery
+  notes: A great option for cookies.
+  type: Cookies
+  yelp_link: https://www.yelp.com/biz/levain-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 72 W 38th St New York
+  name: Culture Espresso
+  notes: A great option for cookies.
+  type: Cookies
+  yelp_link: https://www.yelp.com/biz/culture-espresso-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 285 Amsterdam Ave New York
+  name: Jacques Torres
+  notes: A great option for cookies.
+  type: Cookies
+  yelp_link: https://www.yelp.com/biz/jacques-torres-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w

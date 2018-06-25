@@ -1,0 +1,31 @@
+data:
+- address: 194 Canal St New York
+  name: Tai Pan
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/tai-pan-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 321 W 6th Ave New York
+  name: Fay Da
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/fay-da-bakery-new-york-10?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 81 Mulberry St New York
+  name: Lung Moon
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/lung-moon-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 125 Mott St New York
+  name: Manna House
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/manna-house-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 143-A Mott St New York
+  name: Golden Steamer
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/golden-steamer-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
+- address: 64 Bayard St New York
+  name: Mei Li Wah
+  notes: A great option for chinese baked goods.
+  type: Chinese Baked Goods
+  yelp_link: https://www.yelp.com/biz/mei-li-wah-bakery-new-york?adjust_creative=piqd968yUGHQDL1ei6gj2w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=piqd968yUGHQDL1ei6gj2w
